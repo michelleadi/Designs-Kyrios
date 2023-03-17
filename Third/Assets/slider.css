@@ -29,13 +29,13 @@
   font-size: 1.8em;
   height: 2.2em;
   width: 2.2em;
-  background-color: #ffffff;
+  background-color: #0a69ed;
   position: absolute;
   margin: auto;
   top: 0;
   bottom: 0;
   border: none;
-  color: #0a69ed;
+  color: #ffffff;
   box-shadow: 0 0 1em rgba(1, 17, 39, 0.25);
   cursor: pointer;
   border-radius: 50%;
@@ -60,8 +60,9 @@ button#prev {
   width: 15em;
 }
 .testimonial-container h3 {
+  font-family: 'Raleway',sans-serif;
   color: #021DF3;
-  font-size: 1.2em;
+  font-size: 1.5em;
   text-align: center;
 }
 .testimonial-container h6 {

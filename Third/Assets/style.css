@@ -440,6 +440,9 @@ h1
   border-radius: 1px;
   color:var(--font-color-text-area);;
 }
+.about__initial{
+  font-family: var(--header-font);
+}
 
 .about__description
 {
@@ -648,7 +651,7 @@ hr
 }
 .title-home-team
 {
- 
+  font-family: var(--header-font);
   letter-spacing: 2px;
   font-size: var(--h1-font-size);
   color: #333333;
@@ -673,7 +676,7 @@ hr
 }
 .menu-second img
 {
-  height: 220px;
+  height: auto;
   width: 220px;
 }
 .third
@@ -743,7 +746,7 @@ h1
 .content-home
 {
   font-family: var(--body-font);
-  line-height: 25px;about__initial
+  line-height: 25px;
   color: var(--light-color);
 }
 .contactimg
