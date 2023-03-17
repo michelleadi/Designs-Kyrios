@@ -668,7 +668,7 @@ hr
 }
 
 .menu__name{
-  color: #333333;
+  color: var(--font-color-text-area);
   font-size: var(--small-font-size);
 }
 .menu__detail{

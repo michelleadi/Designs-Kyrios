@@ -14,13 +14,13 @@
   display: flex;
   margin-left: 150px;
   margin-top: 3rem;
-  margin-bottom: 9rem;
+  margin-bottom: 9.5rem;
 }
 .testimonial-container
 {
   width: 100vw;
   margin: auto;
-  padding: 1.5em 2em;
+  padding: 1em 2em;
 }
 .wrapper button
 {
@@ -55,7 +55,7 @@ button#prev {
   display: block;
   margin: 1.8em auto 1.25em auto;
   width: 4.4em;
-  width: 20em;
+  width: 15em;
 }
 .testimonial-container h3 {
   font-family: 'Raleway',sans-serif;
@@ -65,7 +65,7 @@ button#prev {
 }
 .testimonial-container h6 {
   color: #bcc4da;
-  font-size: 1em;
+  font-size: .8em;
   letter-spacing: 0.03em;
   font-weight: 400;
   text-align: center;

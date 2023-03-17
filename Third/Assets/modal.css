@@ -1,4 +1,7 @@
 /*========== MODAL ==========*/
+.modal-title{
+  color: #333;
+}
 .no-choice {
   color: var(--dashboard-font-color);
 }
