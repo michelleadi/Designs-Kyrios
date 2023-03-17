@@ -228,6 +228,8 @@ img
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding-top: 20px;
+  padding-bottom: 35px;
 }
 #talk
 {
@@ -658,7 +660,7 @@ hr
   font-family: var(--header-font);
   letter-spacing: 2px;
   font-size: var(--h1-font-size);
-  color: #333333;
+  color: var(--font-color-text-area);
   margin-bottom: var(--mb-3);
 }
 .feautre-parag{
