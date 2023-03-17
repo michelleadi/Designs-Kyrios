@@ -374,13 +374,16 @@ h1
   font-family: var(--header-font);
   font-size: var(--home-font-size);
 }
+#home{
+  padding-top: 8rem;
+}
 .home__data h1
 {
   line-height: 110%;
 }
 .home__container
 {
-  margin-top: var(--mb-5);
+  margin-top: var(--mb-1);
   height: calc(100vh - var(--header-height));
   align-content: center;
 }
@@ -464,6 +467,7 @@ h1
 }
 #about
 {
+  padding-top: 8rem;
   margin-bottom: var(--mb-6);
 }
 .cont-title {
@@ -808,6 +812,9 @@ textarea:focus
 }
 
 /*========== FOOTER ==========*/
+#FOOT{
+  padding-top: 3rem;
+}
 .footer__container
 {
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
