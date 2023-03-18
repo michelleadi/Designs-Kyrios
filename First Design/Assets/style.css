@@ -635,7 +635,7 @@ hr
 }
 .menu__content img
 {
-  height: 100%;
+  height: auto;
   width: 100%;
   border-radius: .5rem;
 }

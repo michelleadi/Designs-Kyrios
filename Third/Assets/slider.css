@@ -1,12 +1,11 @@
 #services_BG 
 {
   background-color: #021DF3;
-  height: 60vw;
 }
 .wrapper 
 {
   background-color: #ffffff;
-  position: absolute;
+  position: relative;
   width: 80vw;
   max-width: 41em;
   min-height: 20em;
@@ -14,28 +13,27 @@
   box-shadow: 0 1.8em 3em rgba(1, 17, 39, 0.15);
   display: flex;
   margin-left: 150px;
-   
+  margin-top: 3rem;
+  margin-bottom: 9.5rem;
 }
-.testimonial-container 
+.testimonial-container
 {
-  width: 85%;
-  height: 100%;
-  position: relative;
+  width: 100vw;
   margin: auto;
-  padding: 1.8em 1.2em;
+  padding: 1em 2em;
 }
-.wrapper button 
+.wrapper button
 {
   font-size: 1.8em;
   height: 2.2em;
   width: 2.2em;
-  background-color: #ffffff;
+  background-color: #0a69ed;
   position: absolute;
   margin: auto;
   top: 0;
   bottom: 0;
   border: none;
-  color: #0a69ed;
+  color: #ffffff;
   box-shadow: 0 0 1em rgba(1, 17, 39, 0.25);
   cursor: pointer;
   border-radius: 50%;
@@ -60,13 +58,14 @@ button#prev {
   width: 15em;
 }
 .testimonial-container h3 {
+  font-family: 'Raleway',sans-serif;
   color: #021DF3;
-  font-size: 1.2em;
+  font-size: 1.9em;
   text-align: center;
 }
 .testimonial-container h6 {
   color: #bcc4da;
-  font-size: 0.9em;
+  font-size: .8em;
   letter-spacing: 0.03em;
   font-weight: 400;
   text-align: center;
